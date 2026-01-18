@@ -1,0 +1,5 @@
+{
+	"login":"correct_login",
+	"password":"correct_password",
+	"loginCamel":"camelstyle_correct_login"
+}
